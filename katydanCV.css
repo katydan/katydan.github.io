@@ -1,0 +1,28 @@
+html {  }
+
+body {  }
+
+h1 { color: red; }
+
+h2 { font-size: 28px; color: #3388BB; border-bottom: 3px; solid: #3388DD; }
+
+img { height: 170px; }
+
+header {  }  
+		#infophoto { height: 250px; }
+		.bloc { display: inline-block; }
+		#boite { margin-left: 125px; }
+			#titre { margin-bottom: 50px; position: relative; top: -60px; }
+			#photo { margin-left: 125px; }
+
+			
+section {  }
+		#aside { margin-bottom: 150px; text-align: justify; }
+		#sec-droite { float-right: : 80px;  }
+		#class { float-right: : 80px;  }
+		#sec-gauche { float-left: 80px; }
+
+
+aside {  } 
+	#aside { margin-bottom: 70px; text-align: justify; }
+ 	
